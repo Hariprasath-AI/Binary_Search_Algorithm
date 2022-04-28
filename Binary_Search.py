@@ -1,4 +1,4 @@
-# Insertion Sort:
+# Insertion Sort:  
 # No Temporary array/list used. Swapping ocurrs within the original array/list. 
 def Insertion_Sort(arr):
     # Initializing start value with 1. In this Insertion sort, Unsorted Array index starts with 1.
